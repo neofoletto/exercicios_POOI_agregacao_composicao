@@ -4,7 +4,7 @@ Relacionados a Orientação à Objetos, onde os conceitos de herança, agregaç�
 
 Segue abaixo os exemplos direcionados:
 
-![01](tasks/01.png)
-![02](tasks/03.png)
-![03](tasks/02.png)
+![01](tasks/02.png)
+![02](tasks/04.png)
+![03](tasks/03.png)
 ![04](tasks/01.png)
